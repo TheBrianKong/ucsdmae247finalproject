@@ -2,7 +2,7 @@
 clear; clc; close all;
 
 %% Experiment Parameters
-N = 15;                 
+N= 15;                 
 Delta = 2;              
 SR = 300;               
 t_max = 40;             
@@ -329,3 +329,4 @@ xlim([550 1500]);
 ylim([5 50]);
 
 hold off;
+
